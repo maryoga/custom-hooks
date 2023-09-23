@@ -1,7 +1,7 @@
 // esto no es un functional component, será un Custom Hook
 
 import { useEffect, useReducer } from 'react';
-import { todoReducer } from '../08-useReducer/todoReducer';
+import { todoReducer } from './todoReducer';
 
 
 // función que se encarga de cargar los 'todos'
